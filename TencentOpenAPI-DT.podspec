@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version               = '3.5.14'
   s.summary               = 'TencentOpenAPI person pod'
   s.homepage              = 'https://wiki.connect.qq.com'
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '11.0'
   s.license               = { :type => 'MIT', :file => 'LICENSE' }
   s.author                = { 'dt' => '236048180@qq.com' }
   s.source                = { :git => 'https://github.com/AsTao/TencentOpenAPI-DT.git', :tag => s.version }
